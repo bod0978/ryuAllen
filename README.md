@@ -1,7 +1,7 @@
 # ryuAllen
 # ryu-allen-codes
-# //The customer environment requires the user to directly enter the account password to use//
-
+//The customer environment requires the user to directly enter the account password to use
+//test use: Communication time is limited to 1 minute
 
 public class RegisterActivity extends Activity {
 
